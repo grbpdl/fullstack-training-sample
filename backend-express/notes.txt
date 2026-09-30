@@ -1,0 +1,11 @@
+JWT (josn web token)
+access token and refresh token
+tokens are used for authentication and authorization
+they are issued by backend and stored by frontend in cookies
+
+in terminal run 
+1. npm install cookie-parser
+2. npm install jsonwebtoken
+
+step two
+use in app
